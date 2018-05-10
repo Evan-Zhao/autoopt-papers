@@ -1,0 +1,14 @@
+newname,oldname,href,outlink,inlink
+auto-fdo,45290,https://ai.google/research/pubs/pub45290,,
+hoard,asplos-2000,http://www.cs.utexas.edu/users/mckinley/papers/asplos-2000.pdf,cache-locality;data-locality;compile-time-data-trans;reduce-false-sharing,streamflow;vam
+mallacc,p33-kanev,https://dl.acm.org/citation.cfm?id=3037736,alloc-experiment,
+func-placement,cgo2017-hfsort-final1,https://research.fb.com/publications/optimizing-function-placement-for-large-scale-data-center-applications-2/,loop-trans,
+compile-time-data-trans,10.1.1.47.9698,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.47.9698,,
+cache-locality,p177-grunwald,https://dl.acm.org/citation.cfm?id=155107,,
+data-locality,p323-kennedy,https://dl.acm.org/citation.cfm?id=143427,,
+reduce-false-sharing,00286299,https://ieeexplore.ieee.org/abstract/document/286299/,,compile-time-data-trans;hoard;lock-free-alloc
+alloc-experiment,06118957,https://ieeexplore.ieee.org/document/6118957/,,
+loop-trans,toplas96,http://pages.mtu.edu/~carr/papers/toplas96.pdf,,
+vam,p33-feng,https://dl.acm.org/citation.cfm?id=1111594,,
+streamflow,ismm06,http://www.scott-a-s.com/files/ismm06.pdf,,
+lock-free-alloc,10.1.1.87.3870,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.3870
